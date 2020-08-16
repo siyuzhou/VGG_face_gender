@@ -1,0 +1,14 @@
+# Python
+__pycache__
+
+# ipynb
+.ipynb_checkpoint
+
+# vscode
+.vscode
+
+# data
+data/*/
+
+# models
+saved_models/*/
